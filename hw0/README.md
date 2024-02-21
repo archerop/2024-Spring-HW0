@@ -1,8 +1,8 @@
 figure2:
-![figure2](https://hackmd.io/_uploads/B1T5fKQn6.png)
+![](https://hackmd.io/_uploads/B1T5fKQn6.png)
 
 figure3:
-![figure3](https://hackmd.io/_uploads/BJfoGtmn6.png)
+![](https://hackmd.io/_uploads/BJfoGtmn6.png)
 
 
 ## Foundry
