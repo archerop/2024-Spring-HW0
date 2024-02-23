@@ -1,3 +1,9 @@
+figure2:
+![](https://hackmd.io/_uploads/B1T5fKQn6.png)
+
+figure3:
+![](https://hackmd.io/_uploads/BJfoGtmn6.png)
+
 # 2024-Spring-HW0
 
 All the detailed specified in Homework 0 documentation.
